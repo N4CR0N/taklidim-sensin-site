@@ -1,0 +1,10 @@
+{
+  "name": "Taklidim Sensin",
+  "short_name": "Taklidim",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#FFF8EC",
+  "theme_color": "#3B1F6E",
+  "icons": [{ "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }]
+}
